@@ -70,7 +70,7 @@ export default function ExpenseList() {
       <Paper
         elevation={10}
         sx={{
-          p: 4,
+          p: 2,
           borderRadius: 4,
           maxWidth: "100%",
           backdropFilter: "blur(12px)",
