@@ -4,8 +4,8 @@ A full-stack expense tracker for team members and admins.
 
 ## Live Links
 
-- Frontend:   
-- Backend: 
+- Frontend:https://expense-tracker-1-0iev.onrender.com  
+- Backend: https://expense-tracker-6azn.onrender.com/api
 
 ##Test Logins
 
