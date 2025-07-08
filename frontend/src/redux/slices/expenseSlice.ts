@@ -14,7 +14,7 @@ export interface NewExpenseInput {
 
 export interface Expense extends NewExpenseInput {
   _id: string;
-  // status: "pending" | "approved" | "rejected";
+  status: "pending" | "approved" | "rejected";
   createdBy: string;
 }
 
