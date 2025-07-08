@@ -19,7 +19,7 @@ const Dashboard = () => {
   };
 
   return (
-    <Box px={4} pb={4} pt={0}>
+    <Box>
      
       <Box
         sx={{
@@ -54,6 +54,7 @@ const Dashboard = () => {
           sx={{
             fontWeight: 600,
             color: "#fff",
+            padding:'6px 20px'
           }}
         />
       </Box>
